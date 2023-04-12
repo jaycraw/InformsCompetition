@@ -1,0 +1,12 @@
+,index,value,% Accuracy
+0,token_primary_account_identifier,13396.0,1.0
+1,Basket Size 1 Success,7291.0,0.544266945356823
+2,Basket Size 2 Success,8831.0,0.6592266348163631
+3,Basket Size 3 Success,9467.0,0.7067034935801731
+4,Basket Size 4 Success,9824.0,0.7333532397730665
+5,Basket Size 5 Success,10054.0,0.7505225440429979
+6,Basket Size 6 Success,10205.0,0.7617945655419528
+7,Basket Size 7 Success,10356.0,0.7730665870409077
+8,Basket Size 8 Success,10484.0,0.7826216781128695
+9,Basket Size 9 Success,10600.0,0.7912809793968348
+10,Basket Size 10 Success,10711.0,0.7995670349358017
